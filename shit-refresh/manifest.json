@@ -33,7 +33,7 @@
                 "default": "Ctrl+Shift+Y",
                 "mac": "Command+Shift+Y"
             },
-            "description": "Remove cookies"
+            "description": "Remove local storage and cookies"
         }
     },
     "icons": {
